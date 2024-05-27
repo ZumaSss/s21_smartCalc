@@ -1,0 +1,3 @@
+[submodule "src/smart_calc_qt/QCustomPlot-library"]
+	path = src/smart_calc_qt/QCustomPlot-library
+	url = https://github.com/leger50/QCustomPlot-library
